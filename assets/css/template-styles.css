@@ -123,14 +123,17 @@ h1 {
 }
 h2 {
     font-size: 1.33rem;
+    margin-bottom: -1rem;
 }
 h3 {
     font-size: 1.125rem;
+    margin-bottom: -0.6rem;
 }
 h4,
 h5 {
     font-size: 1rem;
     font-family: PT Sans, sans-serif;
+    margin-bottom: -0.6rem;
 }
 h5 {
     font-size: 0.85rem;
@@ -445,6 +448,7 @@ caption {
 }
 .toc h2 {
     font-size: 1rem;
+    margin-bottom: 0rem;
 }
 .toc ol {
     margin-left: 0.75rem;
@@ -471,6 +475,7 @@ caption {
 .patterns-list h2 {
     font-size: 1.25rem;
     line-height: 1.6;
+    margin-bottom: 0rem;
 }
 .patterns-list li + li {
     margin-top: 1rem;
